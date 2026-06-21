@@ -8,9 +8,9 @@
 <p align="center">
   </a>
 </p>
-<h3 align="center">welcome to my profile :3</h3>
+<h3 align="center">welcome to my profile :></h3>
 
-<p align="center">i'm a loser that has no idea what's happening ok.～☆</p>
+<p align="center">bass player, vkei, ff7, pjsk. i love pancakes.. bi + asexual～☆</p>
 
 <p align="center">
   <strong><a href="https://x.com/anexekun?s=11">Twitter</a></strong> |
