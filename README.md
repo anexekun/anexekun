@@ -10,7 +10,8 @@
 </p>
 <h3 align="center">welcome to my profile :></h3>
 
-<p align="center">so.. im a monkey...go follow my accounts bitches～☆ my penis is throbing ok.. i like ff7, brawl stars, vkei etc</p>
+<p align="center">so.. im a monkey...go follow my accounts bitches～☆
+  my penis is throbing ok.. i like ff7, brawl stars, vkei etc</p>
 
 <hr style="border: 0; border-top: 1px solid ##30363d;">
 
