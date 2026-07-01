@@ -10,7 +10,8 @@
 </p>
 <h3 align="center">welcome to my profile :></h3>
 
-<p align="center">bass player, vkei, ff7, pjsk. i love pancakes.. bi + asexual～☆</p>
+<p align="center">so.. im a monkey... follow my accounts bitches～☆</p>
+<p align="center">fandoms: ff7, a few vkei bands, brawl stars ☆</p>
 
 <p align="center">
   <strong><a href="https://x.com/anexekun?s=11">Twitter</a></strong> |
