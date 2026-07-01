@@ -12,9 +12,6 @@
 
 <p align="center">so.. im a monkey...go follow my accounts bitches～☆ <br> my penis is throbing ok.. i like ff7, brawl stars, vkei etc</p>
 
-<details open><summary></summary></details>
-
-
 <p align="center">
   <strong><a href="https://x.com/anexekun?s=11">Twitter</a></strong> |
   <strong><a href="https://www.tiktok.com/@forsakerph?_r=1&_t=ZN-97OS68sMUYo">Tiktok</a></strong> |
