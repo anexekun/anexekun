@@ -12,7 +12,7 @@
 
 <p align="center">so.. im a monkey...go follow my accounts bitches～☆ <br> my penis is throbing ok.. i like ff7, brawl stars, vkei etc</p>
 
-<hr style="border: 0; border-top: 1px solid ##30363d;">
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 20px 0;">
 
 <p align="center">
   <strong><a href="https://x.com/anexekun?s=11">Twitter</a></strong> |
