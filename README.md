@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anexekun/anexekun">
-    <img src="tumblr_144c4dff906e42095ab6f932aba3e38c_41e04a6d_500.webp" alt="Banner" width="50%">
+    <img src="tumblr_144c4dff906e42095ab6f932aba3e38c_41e04a6d_500.webp" alt="Banner" width="50%" tyle="border: 5px white;">>
   </a>
 </p>
 
