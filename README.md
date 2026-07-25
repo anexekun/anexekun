@@ -10,7 +10,7 @@
 </p>
 <h3 align="center">welcome to my profile :></h3>
 
-<p align="center">so.. im a monkey...go follow my accounts cunts ☆ <br> my penis is throbbing ok.. i like ff7, brawl stars, vkei etc...<br> i love esli monci ral and elias (my best friends 👀</p>
+<p align="center">so... go follow my accounts cunts ☆ <br> i like ff7, ff8, vkei etc... im very tuff i promise <br> i love esli monci ral and elias (my best friends 👀</p>
 
 <p align="center">
   <strong><a href="https://x.com/anexekun?s=11">Twitter</a></strong> |
