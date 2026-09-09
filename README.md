@@ -1,7 +1,7 @@
 <p align="center">
   <h4 align="center"
     </a>
-   <img width="300" height="500" alt="Image" src="_-6-removebg-preview.png" />
+   <img width="300" height="300" alt="Image" src="_-6-removebg-preview.png" />
 <div align="center">  
           <!--  GAMES  -->  
   <details>
