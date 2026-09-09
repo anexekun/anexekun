@@ -19,5 +19,5 @@
     <summary>${\textsf{\color{5E147C}my bsfs}}$</summary>
     yes they DO get a separate section ily ral, esli, monci, yasmine nd elias (∩˃o˂∩)♡
  </details>
-  <img width="268" height="280" alt="Image" src="https://github.com/user-attachments/assets/0793f152-da5b-4b62-a504-f735509135d1" />
+  <img width="268" height="280" alt="Image" src="tumblr_144c4dff906e42095ab6f932aba3e38c_41e04a6d_500.webp" />
 <img width="1000" height="180" alt="Image" src="https://github.com/user-attachments/assets/0757783d-995c-41b0-9886-3ad35220156b" />
