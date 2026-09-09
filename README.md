@@ -5,8 +5,8 @@
 <div align="center">  
           <!--  GAMES  -->  
   <details>
-   <summary>${\textsf{\color{90D5FF}About}}$</summary>
-    i'm aly uhhh i love final fantasy games (ff7, ff8 nd currently playing ff10), i like drawing nd singing even tho I suck at singing (◞‸◟；) ro/eng ok? eastern european slavic core ok
+   <summary>${\textsf{\color{90D5FF}about}}$</summary>
+    i'm aly uhhh i love final fantasy games (ff7, ff8 nd currently playing ff10), i like drawing nd singing even tho I suck at singing (◞‸◟；) im also pretty good at pjsk ; ro/eng
   </details>
        <!--  GAMES  -->  
   <details>
