@@ -11,7 +11,7 @@
        <!--  GAMES  -->  
   <details>
     <summary>${\textsf{\color{FFFFC5}dni + byf}}$</summary>
-    uhh i don't rlly have a dni excluding maybe 21+ dni nd i guess don't int w me if u have no interest in hearing me yap abt my fandoms or if u ship incest ships or idk minor x adult. i make a lot of sexual jokes nd i swear a lot. c+h free always ദ്ദി˙∇˙)ว
+    uhh i don't rlly have a dni excluding maybe don't int w me if u have no interest in hearing me yap abt my fandoms or if u ship incest ships or idk minor x adult. i make a lot of sexual jokes nd i swear a lot. c+h free always ദ്ദി˙∇˙)ว
  </details>
   <!--  GAMES  -->  
   <details>
