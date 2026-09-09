@@ -1,7 +1,7 @@
 <p align="center">
   <h4 align="center"
     </a>
-   <img width="100" height="180" alt="Image" src="Made_by_me__credit_if_reposted_-removebg-preview.png" />
+   <img width="180" height="300" alt="Image" src="Made_by_me__credit_if_reposted_-removebg-preview.png" />
 <div align="center">  
           <!--  GAMES  -->  
   <details>
