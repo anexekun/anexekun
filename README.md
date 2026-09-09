@@ -1,7 +1,7 @@
 <p align="center">
   <h4 align="center"
     </a>
-   <img width="500" height="400" style="display: block; margin-bottom: 20px;" alt="Image" src="Screenshot 2026-09-09 at 22.16.14.png" /> <br>
+   <img style="display: block; margin-bottom: 20px;" alt="Image" src="Screenshot 2026-09-09 at 22.16.14.png" /> <br>
 <div align="center">  
           <!--  GAMES  -->  
   <details>
